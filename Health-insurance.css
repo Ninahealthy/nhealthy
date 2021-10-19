@@ -6,6 +6,7 @@
   width: 1126px;
   height: 855px;
   object-position: 50% 32.2%;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto;
 }
 
@@ -320,7 +321,7 @@
 
 .u-section-5 .u-image-1 {
   height: 285px;
-  object-position: 50% 100%;
+  object-position: 50% 55.19%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   width: 500px;
   margin: auto;
@@ -346,7 +347,7 @@
   height: 285px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   width: 500px;
-  object-position: 50% 53.14%;
+  object-position: 50% 74.36%;
   margin: auto;
 }
 
@@ -354,7 +355,7 @@
   background-image: none;
   border-style: none;
   font-size: 1.5rem;
-  margin: 19px auto 0;
+  margin: 20px auto auto;
   padding: 0;
 }
 
